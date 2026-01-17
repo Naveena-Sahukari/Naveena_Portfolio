@@ -69,14 +69,6 @@ The portfolio highlights my academic background, hands-on projects, leadership e
 - **LinkedIn:** https://www.linkedin.com/in/naveena-sahukari-choudary-01a548331  
 - **GitHub:** https://github.com/Naveena-Sahukari
 
----
-
-## 🌐 Live Portfolio
-
-> (Optional) Add GitHub Pages link here once deployed
-
----
-
 ## 📄 License
 
 This project is open-source and available for learning and personal use.
