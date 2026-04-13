@@ -1,73 +1,98 @@
-# Naveena Sahukari – Portfolio
+# Naveena Sahukari – Portfolio Website
 
-This repository contains my **personal portfolio website**, built to showcase my projects, skills, and experience in **Data Science, Machine Learning, Web Development, and RPA**.
-
-The portfolio highlights my academic background, hands-on projects, leadership experience, and professional interests.
+A modern and responsive portfolio website showcasing my **projects, skills, and experience** as a Computer Science Engineering student focused on **Data Science, Machine Learning, and Full Stack Development**.
 
 ---
 
-## 🔍 About Me
+## 🌐 Live Demo
 
-- Computer Science Engineering student at **Vardhaman College of Engineering**
-- Aspiring **Data Scientist / Machine Learning Engineer**
-- RPA Developer Trainee @ **MassMutual**
-- Strong foundation in **Python, Java (DSA), and Web Technologies**
-- Open to internships and full-time opportunities in **Data Science & ML**
+**Website:** https://yourusername.github.io/portfolio
 
 ---
 
-## 🧠 Skills
+## 🚀 Features
 
-- **Programming:** Python, Java (DSA), C++
-- **Web Development:** HTML, CSS, JavaScript
-- **Data Science & ML:** Data Analysis, Machine Learning, Model Evaluation
-- **Other:** RPA (UiPath), Git & GitHub
+* Clean and professional portfolio design
+* Fully responsive layout (mobile, tablet, desktop)
+* Smooth scrolling and simple animations
+* Project showcase with real-world applications
+* Skills and experience sections
+* Contact section with email integration
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+
+### Backend / Tools
+
+* Django (for projects)
+* MySQL
+* Git & GitHub
+* Railway (deployment)
+* UiPath (RPA)
+
+---
+
+## 📁 Project Structure
+
+```
+portfolio/
+├── index.html
+├── images/
+├── resume.pdf
+└── assets/
+```
 
 ---
 
 ## 🚀 Projects
 
-- **Cyberattack-Induced Operational Loss Prediction**  
-  ML-based project to predict and explain healthcare operational losses caused by cyber incidents.
+### 🔹 CyberMed Insight
 
-- **Personal Task Manager (To-Do List)**  
-  JavaScript-based application to manage daily tasks efficiently.
+* ML system to predict cyberattack-induced losses
+* Achieved **98.8% accuracy**
+* Used SHAP for explainable AI
+* Built with Python and deployed using Django
 
-- **Rock Paper Scissors Game**  
-  Interactive browser game built using JavaScript.
+### 🔹 IntelliSched
 
-- **Attendance Calculator**  
-  Web tool to calculate attendance percentage with visual feedback.
+* Full-stack faculty scheduling system
+* Built using Django, REST APIs, and MySQL
+* Handles scheduling conflicts and real-time updates
 
 ---
 
-## 🏆 Experience & Leadership
+## 💼 Experience
 
-- **RPA Developer Trainee – MassMutual**  
-  Completed hands-on RPA training and led a UiPath case study on automating bike route generation and CSV export.
+**RPA Developer Trainee – MassMutual India**
 
-- **Host – InspireX Season 1 (2025)**  
-  Hosted a college-level innovation event at Vardhaman College of Engineering.
+* Built automation workflows using UiPath
+* Reduced manual work using automation
+* Worked as a team lead in project delivery
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech – Computer Science Engineering**  
-  Vardhaman College of Engineering (2024 – 2027)
-
-- **Diploma – Computer Science**  
-  Smt. Durgabai Deshmukh Govt Women’s Technical Training Institute  
-  CGPA: **9.94**
+* **B.Tech CSE** – Vardhaman College of Engineering (CGPA: 8.9)
+* **Diploma CSE** – CGPA: 9.92
 
 ---
 
 ## 📫 Contact
 
-- **Email:** sahukari.naveena178@gmail.com  
-- **Phone:** +91 79898 25988  
-- **LinkedIn:** https://www.linkedin.com/in/naveena-sahukari-choudary-01a548331  
-- **GitHub:** https://github.com/Naveena-Sahukari
+* **Email:** [sahukari.naveena178@gmail.com](mailto:sahukari.naveena178@gmail.com)
+* **Phone:** +91 79898 25988
+* **LinkedIn:** https://www.linkedin.com/in/naveena-sahukari-choudary-01a548331
+* **GitHub:** https://github.com/Naveena-Sahukari
+
+---
 
 ## 📄 License
 
