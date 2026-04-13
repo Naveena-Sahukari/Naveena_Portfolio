@@ -6,7 +6,7 @@ A modern and responsive portfolio website showcasing my **projects, skills, and 
 
 ## 🌐 Live Demo
 
-**Website:** https://yourusername.github.io/portfolio
+**Website:** https://naveena-sahukari.github.io/Naveena_Portfolio/
 
 ---
 
